@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DevKartikBhardwaj
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Reacts.Js
+
 
 <!---
 DevKartikBhardwaj/DevKartikBhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
