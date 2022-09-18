@@ -1,7 +1,7 @@
 ![MaterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
 <h1 align="center">Hi 👋, I'm Kartik Bhardwaj</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="center" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" alt="developers img"></img>
+<div align="center"><img  src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" alt="developers img"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkartikbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="devkartikbhardwaj" /> </p>
 
 - 🔭 I’m currently working on **textUtils-React**
